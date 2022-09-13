@@ -1,0 +1,15 @@
+.promo__title {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 144px;
+    line-height: 152px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    width: 1008px;
+    height: 320px;
+    margin: 0 0 24px;
+    z-index: 2;
+}

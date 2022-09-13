@@ -1,0 +1,13 @@
+.image__tovar {
+    background-image: url(../../../images/nootris.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 224px;
+    height: 635px;
+
+    position: absolute;
+    top: 62px;
+    right: 160px;
+
+    z-index: 1;
+}

@@ -1,0 +1,20 @@
+@font-face { 
+    font-family: "Rubik";
+    src: url("./Rubik/RubikRegular/RubikRegular.eot");
+    src: url("./Rubik/RubikRegular/RubikRegular.eot?#iefix")format("embedded-opentype"),
+    url("./Rubik/RubikRegular/RubikRegular.woff") format("woff"),
+    url("./Rubik/RubikRegular/RubikRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face { 
+    font-family: "Rubik";
+    src: url("./Rubik/RubikBold/RubikBold.eot");
+    src: url("./Rubik/RubikBold/RubikBold.eot?#iefix")format("embedded-opentype"),
+    url("./Rubik/RubikBold/RubikBold.woff") format("woff"),
+    url("./Rubik/RubikBold/RubikBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+

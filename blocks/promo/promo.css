@@ -1,0 +1,9 @@
+.promo {
+    height: 792px;
+    background-image: url(../../images/fone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 96px 64px 0;
+    position: relative;
+    box-sizing: border-box;
+}

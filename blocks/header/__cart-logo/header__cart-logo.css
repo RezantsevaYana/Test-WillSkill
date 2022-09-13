@@ -1,0 +1,10 @@
+.header__cart-logo {
+    background-image: url(../../../images/basket\ 1.svg);
+    width: 32px;
+    height: 32px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    margin-left: 88px;
+    position: relative;
+}

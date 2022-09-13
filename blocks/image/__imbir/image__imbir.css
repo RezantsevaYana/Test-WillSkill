@@ -1,0 +1,13 @@
+.image__imbir {
+    background-image: url(../../../images/ginger.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 496px;
+    height: 408px;
+
+    position: absolute;
+    top: 272px;
+    right: 64px;
+
+    z-index: 0;
+}

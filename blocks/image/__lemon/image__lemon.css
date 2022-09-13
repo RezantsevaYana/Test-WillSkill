@@ -1,0 +1,13 @@
+.image__lemon {
+    background-image: url(../../../images/Lemon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 533px;
+    height: 462px;
+
+    position: absolute;
+    top: 441px;
+    right: 243px;
+
+    z-index: 1;
+}

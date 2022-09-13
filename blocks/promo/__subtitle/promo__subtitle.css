@@ -1,0 +1,13 @@
+.promo__subtitle {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    
+    width: 416px;
+    margin-bottom: 16px;
+}
