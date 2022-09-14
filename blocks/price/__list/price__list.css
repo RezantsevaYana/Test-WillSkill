@@ -1,0 +1,9 @@
+.price__list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 59px 0 64px;
+}

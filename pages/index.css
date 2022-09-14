@@ -9,6 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__cart-logo/header__cart-logo.css);
 @import url(../blocks/header/__cart-count/header__cart-count.css);
+@import url(../blocks/promo/__container/promo__container.css);
 @import url(../blocks/promo/promo.css);
 @import url(../blocks/promo/__title/promo__title.css);
 @import url(../blocks/promo/__text/promo__text.css);
@@ -18,4 +19,19 @@
 @import url(../blocks/image/__tovar/image__tovar.css);
 @import url(../blocks/image/__imbir/image__imbir.css);
 @import url(../blocks/image/__lemon/image__lemon.css);
+@import url(../blocks/price/__container/price__container.css);
 @import url(../blocks/price/price.css);
+@import url(../blocks/price/__title/price__title.css);
+@import url(../blocks/price/__title-span/price__title-span.css);
+@import url(../blocks/price/__value/price__value.css);
+@import url(../blocks/price/__value/_strike/price__value_strike.css);
+@import url(../blocks/price/__value-container/price__value-container.css);
+@import url(../blocks/price/__list/price__list.css);
+@import url(../blocks/price/__item-text/price__item-text.css);
+@import url(../blocks/price/__item-img/price__item-img.css);
+@import url(../blocks/price/__item-img/_imbir/price__item-img_imbir.css);
+@import url(../blocks/price/__item-img/_tovar/price__item-img_tovar.css);
+@import url(../blocks/price/__item-img/_virus/price__item-img_virus.css);
+@import url(../blocks/price/__item/price__item.css);
+@import url(../blocks/price/__item-title/price__item-title.css);
+@import url(../blocks/price/__button/price__button.css);

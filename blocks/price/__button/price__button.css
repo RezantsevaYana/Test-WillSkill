@@ -1,0 +1,21 @@
+.price__button {
+    width: 256px;
+    height: 56px;
+    background: #FCB500;
+    border-radius: 7px;
+    padding: 16px 32px;
+    border: none;
+    cursor: pointer;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+
+    margin: 0 auto;
+    display: block;
+}

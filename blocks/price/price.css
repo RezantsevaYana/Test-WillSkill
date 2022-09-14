@@ -1,4 +1,6 @@
 .price {
-    background-color: #111111;
-    padding: 110px 0 112px;
+    max-width: 1440px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 110px 177px 112px 177px;
 }

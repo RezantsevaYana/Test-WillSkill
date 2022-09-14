@@ -11,5 +11,6 @@
     width: 1008px;
     height: 320px;
     margin: 0 0 24px;
+    position: relative;
     z-index: 2;
 }
