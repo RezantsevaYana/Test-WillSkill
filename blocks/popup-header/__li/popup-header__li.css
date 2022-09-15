@@ -1,0 +1,11 @@
+.popup-header__li {
+    display: none;
+}
+.popup-header__li_activ {
+    display: inline;
+    background-color: #FCB500;
+    border-radius: 50%;
+    width: 19px;
+    height: 19px;
+    margin-right: 25px;
+};

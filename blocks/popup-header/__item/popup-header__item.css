@@ -1,0 +1,26 @@
+.popup-header__item {
+    width: 100%;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 33px;
+    margin-left: 44px;
+}
+
+.popup-header__item_activ {
+    color: #FCB500;
+    margin-left: 0;
+}
+@media screen and (max-width: 420px) {
+    .popup-header__item {
+        margin-left: 0;
+    }
+}

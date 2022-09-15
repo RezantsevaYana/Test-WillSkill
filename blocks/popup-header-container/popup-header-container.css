@@ -1,0 +1,11 @@
+.popup-header-container {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    opacity: 0;
+    transition: all ease-in-out 0.8s;
+}

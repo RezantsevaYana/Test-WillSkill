@@ -39,3 +39,11 @@
 @import url(../blocks/burger/burger.css);
 @import url(../blocks/header/__list/_mobile/header__list_mobile.css);
 @import url(../blocks/promo/__item-img/promo__item-img.css);
+@import url(../blocks/popup-header-container/popup-header-container.css);
+@import url(../blocks/popup-header/popup-header.css);
+@import url(../blocks/popup-header/__close/popup-header__close.css);
+@import url(../blocks/popup-header/__items/popup-header__items.css);
+@import url(../blocks/popup-header/__item/popup-header__item.css);
+@import url(../blocks/popup-header/__item-link/popup-header__item-link.css);
+@import url(../blocks/popup-header/__li/popup-header__li.css);
+
