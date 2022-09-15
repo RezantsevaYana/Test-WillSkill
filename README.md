@@ -11,4 +11,5 @@ __В процессе разработки данного одностранич
 7. Адаптивная верстка. 
 
 Ссылка на проект:  
+https://rezantsevayana.github.io/Test-WillSkill/index.html
 
