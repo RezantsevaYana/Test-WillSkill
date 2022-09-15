@@ -19,6 +19,9 @@
     margin: 0 auto;
     display: block;
 }
+.price__button:hover {
+    opacity: 0.5;
+}
 @media screen and (max-width: 605px) {
     .price__button {
         width: 100%;

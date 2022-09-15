@@ -2,3 +2,6 @@
     color: #FFFFFF;
     text-decoration: none;
 }
+.header__list-link:hover {
+    color: #FCB500;
+}

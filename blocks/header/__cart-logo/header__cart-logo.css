@@ -7,3 +7,9 @@
     cursor: pointer;
     position: relative;
 }
+@media screen and (max-width: 1210px) {
+    .header__cart-logo {
+        width: 50px;
+        height: 50px;
+    }
+}
