@@ -4,3 +4,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media screen and (max-width: 645px) {
+    .promo__container {
+        height: fit-content;
+    }
+}

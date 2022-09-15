@@ -1,0 +1,24 @@
+.burger {
+    position: relative;
+     display: none;
+     width: 50px;
+     height: 25px;
+     margin: 0;
+     border-top: 5px solid #fff;
+     border-bottom: 5px solid #fff;
+     cursor: pointer;
+}
+.burger:before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 100%;
+    border-top: 5px solid #fff;
+}
+
+@media screen and (max-width: 1210px) {
+    .burger {
+         display: block;
+    }
+}

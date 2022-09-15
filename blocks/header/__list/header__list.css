@@ -4,5 +4,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 0;
-    margin-left: 104px;
+}
+
+@media screen and (max-width: 1210px) {
+    .header__list {
+        display: none;
+    }
 }

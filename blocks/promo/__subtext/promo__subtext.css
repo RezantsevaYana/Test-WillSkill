@@ -7,5 +7,19 @@
     display: flex;
     align-items: center;
     color: #000000;
-    width: 416px;
+    width: 352px;
+
+    position: relative;
+    z-index: 2;
+}
+@media screen and (max-width: 645px) {
+    .promo__subtext {
+       margin: 40px 0 0;
+       text-align: center;
+    }
+}
+@media screen and (max-width: 350px) {
+    .promo__subtext {
+        width: 100%;
+    }
 }

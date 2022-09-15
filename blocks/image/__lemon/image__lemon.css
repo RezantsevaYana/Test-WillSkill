@@ -11,3 +11,15 @@
 
     z-index: 1;
 }
+@media screen and (max-width: 910px) {
+    .image__lemon {
+        right: 150px;
+        width: 410px;
+        height: 365px;
+    }
+}
+@media screen and (max-width: 680px) {
+    .image__lemon {
+        display: none;
+    }
+}

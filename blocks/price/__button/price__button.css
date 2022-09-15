@@ -19,3 +19,8 @@
     margin: 0 auto;
     display: block;
 }
+@media screen and (max-width: 605px) {
+    .price__button {
+        width: 100%;
+    }
+}

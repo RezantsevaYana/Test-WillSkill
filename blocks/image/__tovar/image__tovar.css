@@ -11,3 +11,13 @@
 
     z-index: 1;
 }
+@media screen and (max-width: 910px) {
+    .image__tovar {
+        right: 20px;
+    }
+}
+@media screen and (max-width: 645px) {
+    .image__tovar {
+       display: none;
+    }
+}

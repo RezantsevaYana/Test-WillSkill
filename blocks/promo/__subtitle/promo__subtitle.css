@@ -10,4 +10,23 @@
     
     width: 416px;
     margin-bottom: 16px;
+
+    position: relative;
+    z-index: 2;
+}
+@media screen and (max-width: 680px) {
+    .promo__subtitle {
+        width: 350px;
+    }
+}
+@media screen and (max-width: 645px) {
+    .promo__subtitle {
+       margin: 0;
+       text-align: center;
+    }
+}
+@media screen and (max-width: 350px) {
+    .promo__subtitle {
+        width: 100%;
+     }
 }

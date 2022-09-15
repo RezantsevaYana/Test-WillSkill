@@ -4,3 +4,13 @@
     margin: 0 auto;
     padding: 110px 177px 112px 177px;
 }
+@media screen and (max-width: 870px) {
+    .price {
+        padding: 70px 100px 112px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .price {
+        padding: 70px 50px 112px;
+    }
+}

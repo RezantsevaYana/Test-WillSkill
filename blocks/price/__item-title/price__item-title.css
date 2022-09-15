@@ -3,9 +3,15 @@
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
-    line-height: 43px;
+    line-height: 1.19;
     display: flex;
     align-items: center;
     color: #FFFFFF;
     margin: -33px 0 8px;
+    text-align: center;
+}
+@media screen and (max-width: 605px) {
+    .price__item-title {
+        margin: 10px 0 8px;
+    }
 }

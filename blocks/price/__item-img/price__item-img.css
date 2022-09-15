@@ -2,4 +2,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 78px;
+    width: 100%;
+    height: auto;
+}
+@media screen and (max-width: 605px) {
+    .price__item-img {
+        margin: 0;
+    }
 }

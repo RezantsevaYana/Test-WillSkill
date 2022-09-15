@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 144px;
-    line-height: 152px;
+    line-height: 1.06;
     display: flex;
     align-items: center;
     color: #FFFFFF;
@@ -13,4 +13,50 @@
     margin: 0 0 24px;
     position: relative;
     z-index: 2;
+}
+
+@media screen and (max-width: 1305px) {
+    .promo__title {
+        font-size: 120px;
+    }
+}
+
+@media screen and (max-width: 1177px) {
+    .promo__title {
+        font-size: 100px;
+    }
+}
+@media screen and (max-width: 1090px) {
+    .promo__title {
+      
+        height: auto;
+        width: 500px;
+    }
+}
+@media screen and (max-width: 1040px) {
+    .promo__title {
+        font-size: 70px;
+        
+    }
+}
+@media screen and (max-width: 910px) {
+    .promo__title {
+        font-size: 50px;
+        
+    }
+}
+@media screen and (max-width: 645px) {
+    .promo__title {
+        display: block;
+        margin: 0;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 395px) {
+    .promo__title {
+        font-size: 40px;
+    }
 }

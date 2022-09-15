@@ -1,0 +1,14 @@
+.header__container {
+    max-width: 1440px;
+    padding: 23px 80px 23px 64px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+@media screen and (max-width: 400px) {
+    .header__container  {
+        padding: 23px 40px 23px 40px;
+    }
+}

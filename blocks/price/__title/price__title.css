@@ -4,10 +4,15 @@
     font-style: normal;
     font-weight: 700;
     font-size: 48px;
-    line-height: 57px;
+    line-height: 1.19;
     align-items: center;
     text-align: center;
     color: #FFFFFF;
     margin: 0 0 85px;
     text-transform: uppercase;
+}
+@media screen and (max-width: 605px) {
+    .price__title {
+        font-size: 35px;
+    }
 }
